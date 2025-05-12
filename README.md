@@ -8,8 +8,8 @@ This repository contains applied analytics work using Python, with a focus on:
 
 ## Folder structure
 
--   `data/` — Raw data used in notebooks (e.g., CSVs)
--   `ab_testing/` — A/B platform components and statistical evaluations
+-   [`data/`](./data) — Raw data used in notebooks (e.g., CSVs)
+-   [`ab_testing/`](./ab_testing) — A/B testing platform, experiment design, and statistical techniques
 
 coming soon..
 
